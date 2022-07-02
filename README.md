@@ -6,9 +6,27 @@ For this Challenge we are using "Tableu", which is a interactive tool to present
 
 With this data, we want to know the better solution to invest in trips using bicycles in one of the most concurred cities in NY, we could see how the use of bicycles behave during the day, the week, and the differences between our customers or subscribes in using bicycles.
 
-Our mssion is to analize the information, create different graphs or visualization in order to present them, to take the most optimal decition for the program Investment.
+Our mssion is to analize the information, create different graphs or visualizations in order to present them, to take the most optimal decisition for the program Investment.
 
 # Results
+
+## Data presented
+![Data_presented](/Resources/Tableau1.png)
+![Checkout Time for Users](/Resources/Tableau2.png)
+![Checkout Times by Gender](/Resources/Tableau3.png)
+![Trips by Weekday for Each Hour](/Resources/Tableau4.png)
+![Trips by Gender (Weekday per Hour) ](/Resources/Tableau5.png)
+![User Trips by Gender by Weekday](/Resources/Tableau5.png)
+![Trips by Gender (Weekday per Hour) ](/Resources/Tableau6.png)
+
+![Dasboard](/Resources/Tableau7_Dashboard.png)
+![Story](/Resources/Tableau8_Story.png)
+
+
+
+
+
+
 
 ## Checkout Time for Users
 ![district_summary](/Resources/district_summary_df.png)

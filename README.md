@@ -11,6 +11,7 @@ Our mssion is to analize the information, create different graphs or visualizati
 # Results
 
 ## Checkout Time for Users
+![district_summary](/Resources/district_summary_df.png)
 
 
 

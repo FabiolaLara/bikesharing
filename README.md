@@ -50,9 +50,10 @@ The last part for creating vislualizationn is to create a story, which is anothe
 
 ## Summary:
 We can say that invesitng in this kind of business could be very profitable, due the amount of visitors in those places,
-the culture for using bykes is spread, the streets have the structure to use them, and it is cheaper than using the car or a taxi, then the fisrta steps to think in these business is done. Now to analyses made before explains the amount of users, the number of customers or subscribers, we realized the amount of bycles used each day, at around 17,000 each day, in the peak hours for male, and nearly 9000 for female at the same peak hours, 
+the culture for using bykes is spread, the streets have the structure to use them, and it is cheaper than using the car or a taxi, then the fisrta steps to think in these business is done. Now to analyses made before explains the amount of users, the number of customers or subscribers, we realized the amount of bycles used each day, at around 17,000 each day, in the peak hours for male, and nearly 9000 for female at the same peak hours.
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+![Bikes](/Resources/Bikes.png)
+
 
 
 [link to dashboard](LINK GOES HERE "link to dashboard")

@@ -39,11 +39,12 @@ In this analysis our data contains two columns one for our customers and another
 ![Trips by Gender (Weekday per Hour) ](/Resources/Tableau6.png)
 
 
-Another tools there is in Tableau is to create dashboards, these are like another worsheet, just that we can add different worksheets, so we can could have worksheet related in data that we need to display in just one dashboard.
+Another option in Tableau to analyze info, is to create dashboards, these are like another worsheet, just that we can add different worksheets, so we can have worksheet related in data that we need to display in just one dashboard.
+In the next image I decided to add the numbers of trips by gender and another worksheet similar but for customers and subscribers also analysing the number of gender that use bikes, I think it is important to have these two together due they are for the same porpuse, to exppose "gender" field.
 
 ![Dasboard](/Resources/Tableau7_Dashboard.png)
 
-The last part for creating vislualizationn is to create a story, which is another kind of worksheet where we can add worksheet or dashboards to make a final presentation for all the data analysis. 
+The last part for creating vislualizationn is to create a story, which is another kind of worksheet where we can add worksheet or dashboards to make a final presentation for all the data analysis. Making stories will summarize all the created worksheets or dashboards while analysisng the info, so we can make a presentation of all the info for our client.
 
 ![Story](/Resources/Tableau8_Story.png)
 

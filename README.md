@@ -52,6 +52,7 @@ The last part for creating vislualizationn is to create a story, which is anothe
 ## Summary:
 We can say that invesitng in this kind of business could be very profitable, due the amount of visitors in those places,
 the culture for using bykes is spread, the streets have the structure to use them, and it is cheaper than using the car or a taxi, then the first steps to think in these business are done. Now the analysis made before explains the amount of users, the number of customers or subscribers, we realized the amount of bycles used each day, at around 17,000 each day, in the peak hours for male, and nearly 9000 for female at the same peak hours. The demanding is continuos each day, as we mentioned before those places are almot always crowded.
+Finally the manteinance of the bikes is the other importat part in this business, then using some filters in our data we can have the bike Id to have a data set for all the equipment that needs to enter to the mantainance hall.
 
 ![Bikes](/Resources/Bikes.png)
 

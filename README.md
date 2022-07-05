@@ -1,5 +1,5 @@
-# Bikesharing
-Using Tableau
+# bikesharing
+Using Tableu
 
 # Overview of the statistical analysis:
 For this Challenge we are using "Tableau", which is a interactive tool to present the corresponding values for Data Bases. It is not neccesary to know to program to get the data, it is easy to apply for those who don´t have contact with programming. In this case we wer using a CSV file, however we can extract data from another kid of files like: CSV, PDF, and TXT files, and SQL.
@@ -24,7 +24,6 @@ The next image shows the analysis about Checkout Time for Users, this analysis w
 The next visualization shows the Checkout Times by Gender, where we can see the demanding of bicycles for each gender, in this case there are 3 types of gender,(0,1,2), where to make it more understandable we apply a filter to visualize these gender and creating a calculated field to display the meaning for these gender. 
 
 ![Checkout Times by Gender](/Resources/Tableau3.png)
-
 
 The next graph displays the number Trips by Weekday for Each Hour, these graph shows a darker zone wich mean the peak hours for renting a bicycle, while the lightest shows the opposite, we can have a general idea for the number of trips in the different hours.
 
@@ -52,11 +51,10 @@ The last part for creating vislualizationn is to create a story, which is anothe
 
 ## Summary:
 We can say that invesitng in this kind of business could be very profitable, due the amount of visitors in those places,
-the culture for using bykes is spread, the streets have the structure to use them, and it is cheaper than using the car or a taxi, then the first steps to think in these business are done. Now the analysis made before explains the amount of users, the number of customers or subscribers, we realized the amount of bycles used each day, at around 17,000 each day, in the peak hours for male, and nearly 9000 for female at the same peak hours. The demanding is continuos each day, as we mentioned before those places are continuosly crowded. Finally with these data info about the nukmber of bikes for the manteinace can be show applying the neccesary conditions or filters, the next image shows the number of id bikes that can be consider for their manteinance, then we can have or inventory for those bikes in order to offers a good quality for the clients.
+the culture for using bykes is spread, the streets have the structure to use them, and it is cheaper than using the car or a taxi, then the first steps to think in these business are done. Now the analysis made before explains the amount of users, the number of customers or subscribers, we realized the amount of bycles used each day, at around 17,000 each day, in the peak hours for male, and nearly 9000 for female at the same peak hours. The demanding is continuos each day, as we mentioned before those places are almot always crowded.
 
 ![Bikes](/Resources/Bikes.png)
 
+ 
 
-
-[link to dashboard](https://public.tableau.com/views/Challenge_16570386558170/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
+[link to dashboards](https://public.tableau.com/app/profile/fabiola1617)

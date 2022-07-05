@@ -1,5 +1,5 @@
-# bikesharing
-Using Tableu
+# Bikesharing
+Using Tableau
 
 # Overview of the statistical analysis:
 For this Challenge we are using "Tableau", which is a interactive tool to present the corresponding values for Data Bases. It is not neccesary to know to program to get the data, it is easy to apply for those who don´t have contact with programming. In this case we wer using a CSV file, however we can extract data from another kid of files like: CSV, PDF, and TXT files, and SQL.
@@ -57,4 +57,4 @@ the culture for using bykes is spread, the streets have the structure to use the
 
 
 
-[link to dashboard](LINK GOES HERE "link to dashboard")
+[link to dashboard]("https://public.tableau.com/views/Challenge_16570386558170/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link")

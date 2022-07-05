@@ -25,6 +25,7 @@ The next visualization shows the Checkout Times by Gender, where we can see the 
 
 ![Checkout Times by Gender](/Resources/Tableau3.png)
 
+
 The next graph displays the number Trips by Weekday for Each Hour, these graph shows a darker zone wich mean the peak hours for renting a bicycle, while the lightest shows the opposite, we can have a general idea for the number of trips in the different hours.
 
 ![Trips by Weekday for Each Hour](/Resources/Tableau4.png)
@@ -57,4 +58,5 @@ the culture for using bykes is spread, the streets have the structure to use the
 
 
 
-[link to dashboard]("https://public.tableau.com/views/Challenge_16570386558170/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link")
+[link to dashboard](https://public.tableau.com/views/Challenge_16570386558170/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
